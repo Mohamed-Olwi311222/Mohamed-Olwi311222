@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AceMido
+- 👋 Hi, I’m AceMido
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning C# and C
 - 📫 reach me by contacting me on my email acemido2004@gmial.com 
