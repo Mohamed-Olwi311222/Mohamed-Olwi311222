@@ -1,6 +1,6 @@
-- 👋 Hi, I’m AceMido
-- 👀 I’m interested in video games and embedded systems
-- 🌱 I’m currently learning C# and C
+- 👋 Hi, I’m Mohamed Olwi
+- 👀 I’m interested in embedded systems
+- 🌱 I’m currently learning C
 - 📫 reach me by contacting me on my email acemido2004@gmial.com 
 
 <!---
