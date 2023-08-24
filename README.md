@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Olwi
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C/C++
 - 📫 reach me by contacting me on my email acemido2004@gmial.com 
 
 <!---
