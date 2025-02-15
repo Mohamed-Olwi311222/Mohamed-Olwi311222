@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mohamed Olwi<br>- 👀 I’m interested in embedded Linux and also mobile dev using flutter<br>- 🌱 I’m currently learning C/C++ and Rust Programming <br>- 📫 reach me by contacting me on my email mohamedolwi38@gmail.com
+👋 Hi, I’m Mohamed Olwi<br>- 👀 I’m interested in embedded Linux and also mobile dev using flutter<br>- 🌱 I’m currently learning C/C++, Rust Programming and flutter <br>- 📫 reach me by contacting me on my email mohamedolwi38@gmail.com
 
 
 ## 🌐 Socials:
